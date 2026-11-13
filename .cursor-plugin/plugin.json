@@ -1,0 +1,20 @@
+{
+  "name": "opencabinet",
+  "version": "1.5.1",
+  "description": "Create cloud kitchen cabinet projects from measurements or sketches, generate layouts via server solver, preview 2D plans and retail quote estimates, and edit catalog finishes.",
+  "author": {
+    "name": "OpenCabinet (Cabinet-X)",
+    "email": "hello@cabinetx.app",
+    "url": "https://opencabinetai.com"
+  },
+  "homepage": "https://opencabinetai.com/",
+  "license": "SEE LICENSE IN LICENSE",
+  "keywords": [
+    "cabinetry",
+    "kitchen",
+    "design",
+    "quotes",
+    "mcp"
+  ],
+  "logo": "assets/icon.png"
+}

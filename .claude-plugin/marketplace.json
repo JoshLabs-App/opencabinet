@@ -1,0 +1,17 @@
+{
+  "name": "opencabinet",
+  "owner": {
+    "name": "OpenCabinet (Cabinet-X)",
+    "email": "hello@cabinetx.app"
+  },
+  "plugins": [
+    {
+      "name": "opencabinet",
+      "source": "./claude-cloud",
+      "description": "Create cloud kitchen cabinet projects, run the deterministic server layout solver, preview 2D plans & retail quotes, and edit catalog finishes."
+    }
+  ],
+  "metadata": {
+    "description": "Official OpenCabinet (Cabinet-X) remote Cloud MCP integration."
+  }
+}
