@@ -1,4 +1,4 @@
-# OpenCabinet — Cloud Kitchen Layout, 2D Plan & Retail Quote MCP
+# OpenCabinet — 3D Kitchen Design, Render Export & Quotes
 
 **OpenCabinet** (`https://opencabinetai.com/api/sales-mcp`) is the official remote Streamable HTTP **Model Context Protocol (MCP)** connector powered by **[Cabinet-X](https://cabinetx.app)**.
 
@@ -30,7 +30,7 @@ https://opencabinetai.com/api/sales-mcp
 
 ## Capabilities
 
-1. **`cabinetx_cloud_generate`** — Create a cloud kitchen project from room wall measurements, openings, appliances, or sketch summaries and run the deterministic Cabinet-X server layout solver; returns an interactive 2D plan widget (`ui://cabinetx/design-card.html`), customer-safe retail quote estimate, and direct 3D Studio link.
+1. **`cabinetx_cloud_generate`** — Create a cloud kitchen project from room wall measurements, openings, appliances, or sketch summaries and run the deterministic Cabinet-X server layout solver; returns an interactive 2D plan widget (`ui://cabinetx/design-card.html`), a customer-safe retail quote estimate, and a link to the design in Cabinet-X. Open the link to explore the kitchen in interactive 3D and export rendered images.
 2. **`cabinetx_mobile_design`** — Inspect designs, query real catalog finishes/door styles, and apply revision-checked edits (`set_color`, `set_door_style`, `resize_cabinet`, `add_island`, `delete_item`).
 3. **`cabinetx_sales_search` / `cabinetx_sales_project_context` / `cabinetx_sales_followup_draft` / `cabinetx_sales_save_followup` / `cabinetx_sales_capabilities`** — Owner-scoped customer project lookup and follow-up workflow.
 

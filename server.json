@@ -2,8 +2,8 @@
   "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
   "name": "com.opencabinetai/opencabinet",
   "title": "OpenCabinet",
-  "description": "Cloud kitchen cabinet layout solver, interactive 2D plan previews, finish edits, and retail quotes.",
-  "version": "1.5.1",
+  "description": "Kitchen design with interactive 3D and render export in Cabinet-X, plus 2D plans and quotes.",
+  "version": "1.5.2",
   "websiteUrl": "https://opencabinetai.com",
   "repository": {
     "url": "https://github.com/JoshLabs-App/opencabinet",
